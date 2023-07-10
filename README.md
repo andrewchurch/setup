@@ -5,7 +5,11 @@
 * [Chrome](https://www.google.com/chrome/)
 * [Remember the Milk](https://www.rememberthemilk.com/)
 * [VS Code](https://code.visualstudio.com/)
+    * Add 'code' to PATH (do via command palette)
 * [Miscrosoft 365 Apps](https://www.office.com/)
+* [Quick View Calendar](https://apps.apple.com/us/app/quick-view-calendar/id1087080039?mt=12)
+* [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000)
+* [Zoom](https://zoom.us/download)
 * [Spotify](https://www.spotify.com/us/download/other/)
 
 ## Terminal Setup
@@ -26,4 +30,5 @@
 
 ## Dev Workflow
 
+* [LAMP setup](https://getgrav.org/blog/macos-ventura-apache-multiple-php-versions)
 * Generate/add [GitHub SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
