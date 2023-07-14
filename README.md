@@ -26,9 +26,14 @@
     * Set profile Window size (90x60ish)
 * Install [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)
 * Install [Fisher](https://github.com/jorgebucaran/fisher)
-* Install [pure fish plugin](https://github.com/pure-fish/pure)
+* Install [Lavender Theme](https://github.com/tungpun/fish-theme-lavender)
 
 ## Dev Workflow
 
 * [LAMP setup](https://getgrav.org/blog/macos-ventura-apache-multiple-php-versions)
 * Generate/add [GitHub SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+* Install [nvm.fish plugin](https://github.com/jorgebucaran/nvm.fish)
+    * Install node (latest, lts)
+    * Set default node version
+
+            set --universal nvm_default_version v18.4.0
