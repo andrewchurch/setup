@@ -11,6 +11,7 @@
 * [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000)
 * [Zoom](https://zoom.us/download)
 * [Spotify](https://www.spotify.com/us/download/other/)
+* [Discord](https://discord.com/)
 
 ## Terminal Setup
 
