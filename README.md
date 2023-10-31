@@ -11,6 +11,7 @@
 * [Quick View Calendar](https://apps.apple.com/us/app/quick-view-calendar/id1087080039?mt=12)
     * [Start app on Mac startup](https://support.apple.com/guide/mac-help/open-items-automatically-when-you-log-in-mh15189/)
 * [Sequel Ace](https://apps.apple.com/us/app/sequel-ace/id1518036000)
+* [Postman](https://www.postman.com/downloads/)
 * [Zoom](https://zoom.us/download)
 * [Spotify](https://www.spotify.com/us/download/other/)
 * [Discord](https://discord.com/)
