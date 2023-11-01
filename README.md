@@ -36,6 +36,7 @@
 
 * [LAMP setup](https://getgrav.org/blog/macos-ventura-apache-multiple-php-versions)
 * Generate/add [GitHub SSH key](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent)
+* Add .gitconfig
 * Install [nvm.fish plugin](https://github.com/jorgebucaran/nvm.fish)
     * Install node (latest, lts)
     * Set default node version
